@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=madimi+one&pause=1000&color=F7328E&random=false&width=435&lines=Hi%2C+I+am+Vishwajit...;I+am+Machine+Learning+Engg...)](https://git.io/typing-svg)
 
-<p align="right"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-<br><br>
 - 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning, AI**
 
 - 📫 How to reach me **vishwajitpatil2867@gmail.com**
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+<br><br>
 
 
 <h3 align="left">Connect with me:</h3>
