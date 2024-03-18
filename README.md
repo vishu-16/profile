@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=madimi+one&pause=1000&color=F7328E&random=false&width=435&lines=Hi%2C+I+am+Vishwajit...;I+am+Machine+Learning+Engg...)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Vishwajit</h1>
 <h3 align="center">A passionate Machine Learning Engg. from Dubai</h3>
 
